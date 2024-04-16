@@ -1,7 +1,7 @@
 {
     "name": "OPXMUSICBOT",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/3a131483d8a27dbf41b3a.jpg",
+    "logo": "https://telegra.ph/file/9960aa21f52a3d368051d.jpg",
     "keywords": [
     "python3",
     "telegram",
