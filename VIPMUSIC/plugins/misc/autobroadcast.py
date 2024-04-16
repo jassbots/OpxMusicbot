@@ -20,7 +20,7 @@ MESSAGES = f"""**ㅤㅤㅤ⚠️⚠️⚠️⚠️⚠️📡
 
 ☄️Register Link🔗:- https://rajaluck777.com/#/register?invitationCode=mVkLc53416
 
-24ʜʀ ᴘʀᴇᴅɪᴄᴛɪᴏɴ:- https://t.me/VIP_CREATORS/1145
+24ʜʀ ᴘʀᴇᴅɪᴄᴛɪᴏɴ:- https://t.me/punjabiii_chat
 
 🌟Do register & get bonus from :-  @RajaGameClubAgents**"""
 
@@ -46,7 +46,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/TG_VC_BOT?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/musiicyo_bot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
