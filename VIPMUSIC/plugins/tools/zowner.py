@@ -36,13 +36,13 @@ from VIPMUSIC.utils.database import get_assistant, is_active_chat
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=f"https://graph.org/file/943ea319a3d221a5d7607.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jassbots/OpxMusicbot")
                 ]
             ]
         ),
@@ -54,13 +54,13 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     userbot = await get_assistant(chat_id)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=f"https://graph.org/file/943ea319a3d221a5d7607.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jassbots/OpxMusicbot")
                 ]
             ]
         ),
@@ -71,13 +71,13 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/4b52da6d880cbb199298a.jpg",
+        photo=f"https://graph.org/file/943ea319a3d221a5d7607.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/jassbots/OpxMusicbot")
                 ]
             ]
         ),
@@ -103,7 +103,7 @@ import time
 async def add_all(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
-        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @TG_VC_BOT`**")
+        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @unknown_bande`**")
         return
     
     bot_username = command_parts[1]
